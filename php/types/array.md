@@ -1,4 +1,4 @@
-# Array
+# [<](index.md) - Array
 
 ## Syntax
 ---

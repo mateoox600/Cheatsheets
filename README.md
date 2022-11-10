@@ -1,3 +1,3 @@
 # CheatSheets
 
-[Php](/php/index.md)
+[Php](./php/index.md)

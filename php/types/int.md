@@ -1,4 +1,4 @@
-# Int
+# [<](index.md) - Int
 
 
 ## Syntax

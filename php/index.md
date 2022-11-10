@@ -1,3 +1,3 @@
-# Php cheatsheets
+# [<](../README.md) - Php cheatsheets
 
-[Types](/php/types/index.md)
+[Types](./types/index.md)
