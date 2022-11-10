@@ -8,4 +8,3 @@
 | [float](/php/types/float.md) | normal 1.234, -1.234, 1_684.259_351; scientific 1.2e4, 3.4e-6; error NaN (division by 0 for exemple) | All int conversion works with float | IEEE 754 (~14 digits precision) |
 | [string](/php/types/string.md) | simple 'simple quotes', 'escaping simple quotes\' ';<br>double "double quotes", "escaping double quotes\" ", "inline formating $variable {$variable} no spaces ! { $variable}"; | "" == false, "1" == true | ~ 2 Go |
 | [array](/php/types/array.md) | function array( key => value, key1 => value1 ), array( value, value1 );<br>squared brackets [ key => value, key1 => value1 ], [ value, value1 ]; access on array $array[key];<br>array push $array[] = value2 |  |  |
-|  	|  	|  	|  	|
